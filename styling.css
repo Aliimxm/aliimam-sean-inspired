@@ -1,0 +1,317 @@
+body
+{
+  background-color:#FAF0D7 ;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+.h1:hover
+{
+   color:#242F9B ; 
+}
+.backgroundclr
+{
+  background-color:   #9BA3EB;
+  height: 100%;
+  width: 2000px;
+}
+.icon
+{
+    border-radius: 100%;
+    height: 80px;
+    width: 80px;
+    position: relative;
+    display: inline-block;
+    left: 50px;
+    top: 20px;
+}
+.navbar
+{
+    margin-top: 0px;
+    margin-left: 150px;
+    background-color: #9BA3EB;
+}
+.about
+{
+    position: relative;
+    display: inline-block;
+    color: #646FD4;
+    left: 675px;
+    bottom: 30px
+}
+.navbaropts
+{
+    font-family: 'Zen Maru Gothic', sans-serif;
+    color: #646FD4;
+    font-size: 20px;
+}
+.work
+{
+    position: relative;
+    display: inline-block;
+    color: #646FD4;
+    left: 720px;
+    bottom: 30px
+}
+.notes
+{
+    position: relative;
+    display: inline-block;
+    color: #646FD4;
+    left: 765px;
+    bottom: 30px
+
+}
+.myname
+{
+    font-family: 'Sacramento', cursive;
+    position: relative;
+    display: inline-block;
+    color: #646FD4;
+    font-size: 100px;
+    left: 385px;
+}
+.webdesigner
+{
+    font-family: 'Zen Maru Gothic', sans-serif;
+    position: relative;
+    display: inline-block;
+    color: #646FD4;
+    font-size: 20px;
+    top: 65px;
+}
+.mountains
+{
+    position: relative;
+    display: inline-block;
+    width: 800px;
+    height:450px;
+    left: 285px;
+    bottom: 100px;
+    top: 4px;
+
+}
+.intropic
+{
+    position: relative;
+    display: inline-block;
+    height:150px;
+    width: 150px;
+    left: 600px;
+    top: 100px;
+}
+.hi
+{
+    font-family: 'Zen Maru Gothic', sans-serif;
+    position: relative;
+    display: inline-block;
+    color: #646FD4;
+    top: 150px;
+    left: 510px;
+}
+.introduction
+{
+   color:#413F42;
+   font-family: 'EB Garamond', serif;
+   font-size: 22px;
+   position: relative;
+   display: inline-block;
+   left: 20px;
+       top: 130px;
+    padding-left: 460px;
+    padding-right: 460px;
+}
+.whaticando
+{
+    font-family: 'Zen Maru Gothic', sans-serif;
+    color:#242F9B ;
+    position: relative;
+   display: inline-block;
+   left: 535px;
+   top:215px;
+   font-size: 50px;
+}
+.designwhat
+{
+    font-family: 'Zen Maru Gothic', sans-serif;
+    position: relative;
+    display: inline-block;
+    color: #646FD4;
+    font-size: 25px;
+    top: 350px;
+    left: 185px;
+}
+.inspiration
+{
+    position: relative;
+    display: inline-block; 
+    height: 180px;
+    width: 180px;
+    top: 470px;
+}
+.whaticandospeech
+{
+    color:#413F42;
+   font-family: 'EB Garamond', serif;
+   font-size: 22px;
+   position: relative;
+   display: inline-block;
+    padding-left: 392px;
+    padding-bottom: 86px;
+    padding-top: 86px;
+    padding-right: 400px;
+    left: 290px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    top: 250px;
+}
+.developwhat
+{
+    font-family: 'Zen Maru Gothic', sans-serif;
+    position: relative;
+    display: inline-block;
+    color: #646FD4;
+    font-size: 25px;
+    top: 125px;
+    left: 325px;
+}
+.infoimg
+{
+    position: relative;
+    display: inline-block; 
+    height: 180px;
+    width: 180px;
+    top: 260px;
+    left: 580px;
+}
+.iamadev
+{
+    color:#413F42;
+    font-family: 'EB Garamond', serif;
+    font-size: 22px;
+    position: relative;
+    display: inline-block;
+     padding-left: 392px;
+     padding-bottom: 86px;
+     padding-top: 86px;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     top: 50px;
+     left: -100;
+     right: 70px;
+     padding-right: 500px
+
+}
+.icanhelp
+{
+    font-family: 'Zen Maru Gothic', sans-serif;
+    color:#242F9B ;
+    position: relative;
+   display: inline-block;
+   top: 70px;
+   left: 560px;
+   font-size: 50px;
+}
+.freelance
+{
+    font-family: 'Zen Maru Gothic', sans-serif;
+    position: relative;
+    display: inline-block;
+    color: #646FD4;
+    font-size: 25px;
+    top: 140px;
+    left: 230px;
+}
+.contact
+{
+    color:#413F42;
+    font-family: 'EB Garamond', serif;
+    font-size: 22px;
+    position: relative;
+    display: inline-block;
+    top: 100px;
+    padding-left: 400px;
+    padding-right: 400px;
+    left: 30px;
+}
+
+.btn {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    font-family: Arial;
+    color: #242F9B;
+    font-size: 20px;
+    background: #9BA3EB;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    top: 100px;
+    left: 575px;
+}
+.btn:hover {
+    background: #8791e6;
+    text-decoration: none;
+  }  
+.footer
+{
+
+    margin-top: 0px;
+    margin-left: 150px;
+    background-color: #9BA3EB;
+    height: 135px;
+    width: 2000px;
+    position: relative;
+    display: inline-block;
+    margin-left: 0px;
+    top: 200px;
+
+}
+.dribble
+{
+    font-family: 'Zen Maru Gothic', sans-serif;
+    color: #646FD4;
+    font-size: 20px;
+    position: relative;
+    display: inline-block;
+    left: 400px;
+
+}
+.twitter
+{
+    font-family: 'Zen Maru Gothic', sans-serif;
+    color: #646FD4;
+    font-size: 20px;
+    position: relative;
+    display: inline-block;
+    left: 470px;
+
+}
+.hireme
+{
+    
+    font-family: 'Zen Maru Gothic', sans-serif;
+    color: #646FD4;
+    font-size: 20px;
+    position: relative;
+    display: inline-block;
+    left: 540px;
+}
+.aboutus
+{
+    font-family: 'EB Garamond', serif;
+    color: #646FD4;
+    font-size: 20px;
+    position: relative;
+    display: inline-block;
+    top: 50px;
+    left: 250px;
+    
+}
+.namehai
+{
+    left: 0px;
+    top: 0px;
+}
